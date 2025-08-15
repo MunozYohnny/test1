@@ -14,5 +14,13 @@ siguientes dos comandos.
 7) Luego en enviara nuevamente a visual estudio code, el cual daremos la opcion de "publish to GitHub public repository" 
 por ultimo en "Ok".
 
-PARA TENER EN CUENTA: Subir siempre los cambios que acabo de ejecutar en la ultima 
+PARA TENER EN CUENTA:
+- Subir siempre los cambios que acabo de ejecutar en la ultima 
 version estable.
+- En cada trabajo que se realizara, se evaluara la rama llamada "Main" 
+(Para crear otra rama para realizar pruebas (Borrador de codigo), se debe dar clic en Main, "Create new branch")
+
+PARA PASAR AL MAIN:
+- Nos ubicamosn en main y ejecutamos los siguientes codigos:
+    - git fetch origin main
+    - git merge origin/(Nombre de la rama o borrador) (Ejemplo: git merge origin/DEV-YMA)
