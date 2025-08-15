@@ -3,13 +3,15 @@
 2) Abrir carpeta la carpeta de trabajo (test1).
     - Donde se este desarrolando el trabajo actualmente.
     Postdata: Si coloco mal el nombre no me califican.
-3) Eliminar todas las cuentas que estan en el usuario de Visual estudio
+3) Eliminar todas las cuentas que estan en el usuario de Visual estudio.
 4) Abrir terminal de visual studio code y ejecutar los
-siguientes dos comandos
-    - git config --global user.name "MunozYohnny"
-    - git config --global user.email "yohnnyunicuces@gmail.com"
-5) Luego ir a source control y publish to Github
-6) Iniciar sesion en github por Web
-7) Luego en enviara nuevamente a visual estudio code, el cual daremos la opcion de "publish to GitHub public repository"
+siguientes dos comandos.
+    - git config --global user.name "MunozYohnny".
+    - git config --global user.email "yohnnyunicuces@gmail.com".
+5) Luego ir a source control y publish to Github.
+6) Iniciar sesion en github por Web.
+7) Luego en enviara nuevamente a visual estudio code, el cual daremos la opcion de "publish to GitHub public repository" 
+por ultimo en "Ok".
+
 PARA TENER EN CUENTA: Subir siempre los cambios que acabo de ejecutar en la ultima 
 version estable.
