@@ -5,10 +5,12 @@
     - Donde se este desarrolando el trabajo actualmente.
     Postdata: Si coloco mal el nombre no me califican.
 
-3) Anrir terminal de visual studio code y ejecutar los
+3) Eliminar todas las cuentas que estan en el usuario de Visual estudio
+
+4) Abrir terminal de visual studio code y ejecutar los
 siguientes dos comandos
     - git config --global user.name "MunozYohnny"
     - git config --global user.email "yohnnyunicuces@gmail.com"
 
-4) Subir siempre los cambios que acabo de ejecutar en la ultima 
+5) Subir siempre los cambios que acabo de ejecutar en la ultima 
 version estable.
